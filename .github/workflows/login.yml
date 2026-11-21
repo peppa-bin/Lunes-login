@@ -1,4 +1,4 @@
-name: Auto-login-Lunes
+name: Auto-login-Lunes # fork-activated
 on:
   workflow_dispatch:
   schedule:
